@@ -1,0 +1,30 @@
+pip(preferred installer program") is a package-management system written in Python used to install and manage software packages. It connects to an online repository of public packages, called the Python Package Index.
+
+CSV (Comma Separated Values) is a simple file format used to store tabular data, such as a spreadsheet or database. A CSV file stores tabular data (numbers and text) in plain text. Each line of the file is a data record
+
+
+The Jupyter Notebook is an open-source web application that allows data scientists to create and share documents that integrate live code, equations, computational output, visualizations, and other multimedia resources, along with explanatory text in a single document.
+
+pandas:-1)data analysis library written in python
+2)it leverages( open something)the power and speed of numpy to make data analysis
+
+numpy:-it is fundamental  unit 
+
+
+
+
+
+A scatter plot (also called a scatterplot, scatter graph, scatter chart, scattergram, or scatter diagram) is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data.
+
+
+regression :-Regression in machine learning consists of mathematical methods that allow data scientists to predict a continuous outcome (y) based on the value of one or more predictor variables (x). Linear regression is probably the most popular form of regression analysis because of its ease-of-use in predicting and forecasting.
+logistics regression:-
+
+python list :-
+https://www.programiz.com/python-programming/methods/list/index
+
+python tuples:-
+https://www.tutorialspoint.com/python/python_tuples.htm
+
+python dict:-
+https://www.programiz.com/python-programming/methods/dictionary/fromkeys
